@@ -1,1 +1,3 @@
 # odin_recipes
+En este proyecto haremos un listado de todas las recetas de las cosas que comemos habitualmente durante el día.
+Desde el punto de vista técnico, debieramos poder usar los atributos de título y modificadores de texto como negrita y cursiva, además de listas ordenadas y no ordenadas. Además, insertar algunas imagenes para complementar las recetas ayudará a una mejor comprensión. Usaremos links también (relativos y absolutos).
