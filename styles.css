@@ -1,0 +1,21 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.title {
+    color: darkblue;
+    font-size: 40px;
+}
+
+p {
+    background-color: lightcoral;
+}
+
+.subtitle {
+    color: gray;
+    font-size: 25px;
+}
+
+.intlink{
+    background-color: lightgrey;
+}
